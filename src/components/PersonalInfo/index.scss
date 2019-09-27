@@ -1,0 +1,22 @@
+.personal_info {
+  width: 70%;
+  margin: 50px auto 50px auto;
+  padding: 0px auto 50px auto;
+  h3.education  {
+    color: darkgray;
+  }
+  ul {
+    h2 {
+      text-align: left;
+    }
+
+    div.ant-typography {
+      text-align: left;
+
+      span.ant-tag {
+        background: #2db7f5;
+        color: white;
+      }
+    }
+  }
+}
